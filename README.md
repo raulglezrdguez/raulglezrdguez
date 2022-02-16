@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Angular/Angular Material.
 
-- 💞️ I’m looking to collaborate on projects with the react.js stack.
+- 💞️ I’m looking to collaborate on projects with the node.js, nestjs, react.js stack.
 
 - 📫 How to reach me ...
 
