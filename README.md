@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning blockchain and ethereum.
 
-- 💞️ I’m looking to collaborate on projects with the node.js, nest.js, react.js stack.
+- 💞️ I’m looking to collaborate on projects with the node.js, react.js stack.
 
 - 📫 How to reach me ...
 
