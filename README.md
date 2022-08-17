@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in develop apps for Web and mobile using MERN stack, Next.js and React Native.
 
-- 🌱 I’m currently learning blockchain and ethereum.
+- 🌱 I’m currently learning docker.
 
 - 💞️ I’m looking to collaborate on projects with the node.js and react.js stack.
 
