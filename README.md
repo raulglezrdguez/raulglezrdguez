@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in develop apps for Web and mobile using MERN stack, Next.js and React Native.
 
-- 🌱 I’m currently learning web3.
+- 🌱 I’m currently learning swiftui.
 
 - 💞️ I’m looking to collaborate on projects with the node.js and react.js stack.
 
