@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning swiftui.
 
-- 💞️ I’m looking to collaborate on projects with the node.js and react.js stack.
+- 💞️ I’m looking to collaborate on projects with the node.js, react.js stack and swift.
 
 - 📫 How to reach me ...
 
