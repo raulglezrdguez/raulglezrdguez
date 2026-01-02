@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @raulglezrdguez
 
-- 👀 I’m interested in develop apps for Web and mobile using MERN stack, Next.js and React Native.
+- 👀 I’m interested in develop apps for backend, Web and mobile using MERN stack, Next.js and React Native.
 
-- 🌱 I’m currently learning swiftui.
+- 🌱 I’m currently learning aws.
 
-- 💞️ I’m looking to collaborate on projects with the node.js, react.js stack and swift.
+- 💞️ I’m looking to collaborate on projects with the javascript/typescript stack.
 
 - 📫 How to reach me ...
 
